@@ -42,7 +42,7 @@ An advanced Speech-to-Text application built with React, featuring Support Vecto
 
 1. Clone the repository:
 ```bash
-git clone <github.com/thetruesammyjay/voice-transcriber-svm>
+git clone github.com/thetruesammyjay/voice-transcriber-svm
 cd voice-transcriber-svm
 ```
 
@@ -160,9 +160,8 @@ No additional environment variables required. The application uses browser APIs 
 
 ## Credits
 
-**Developer**: Riamah Oghenerume James  
-**Institution**: Southern Delta University  
-**Technology**: Speech-to-Text with SVM & Attention Mechanism  
+**Developer**: Samuel Justin Ifiezibe  
+ **Technology**: Speech-to-Text with SVM & Attention Mechanism  
 **Year**: 2025
 
 ## License
