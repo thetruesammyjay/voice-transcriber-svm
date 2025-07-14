@@ -2,6 +2,12 @@
 
 An advanced Speech-to-Text application built with React, featuring Support Vector Machine (SVM) classification and Attention Mechanism for enhanced speech recognition and analysis.
 
+## 🚀 Live Demo
+
+**Try it now**: [https://voice-transcriber-svm.vercel.app/](https://voice-transcriber-svm.vercel.app/)
+
+> **Note**: For full functionality, ensure you grant microphone permissions and use a supported browser (Chrome recommended).
+
 ## Features
 
 ### 🎯 Core Functionality
@@ -38,11 +44,16 @@ An advanced Speech-to-Text application built with React, featuring Support Vecto
 - **Audio Processing**: Web Audio API
 - **Deployment**: Vercel-ready configuration
 
-## Installation
+## Quick Start
+
+### 🌐 Use Online (Recommended)
+Simply visit [https://voice-transcriber-svm.vercel.app/](https://voice-transcriber-svm.vercel.app/) and start transcribing immediately!
+
+### 💻 Local Development
 
 1. Clone the repository:
 ```bash
-git clone github.com/thetruesammyjay/voice-transcriber-svm
+git clone https://github.com/thetruesammyjay/voice-transcriber-svm
 cd voice-transcriber-svm
 ```
 
@@ -61,11 +72,12 @@ npm start
 ## Usage
 
 ### Basic Transcription
-1. Select your preferred language from the dropdown
-2. Click "Start Listening" to begin transcription
-3. Speak clearly into your microphone
-4. View real-time transcription results
-5. Use "Stop Listening" to end the session
+1. Visit [https://voice-transcriber-svm.vercel.app/](https://voice-transcriber-svm.vercel.app/)
+2. Select your preferred language from the dropdown
+3. Click "Start Listening" to begin transcription
+4. Speak clearly into your microphone
+5. View real-time transcription results
+6. Use "Stop Listening" to end the session
 
 ### Advanced Features
 - **Monitor Audio Levels**: Watch the real-time audio level indicator
@@ -124,11 +136,14 @@ Real-time audio analysis including:
 - **Safari**: Partial support (Web Speech API limitations)
 - **Edge**: Full support
 
-**Note**: Web Speech API requires HTTPS in production environments.
+**Note**: Web Speech API requires HTTPS in production environments. The live demo at [https://voice-transcriber-svm.vercel.app/](https://voice-transcriber-svm.vercel.app/) fully supports HTTPS.
 
 ## Deployment
 
-### Vercel Deployment
+### Vercel Deployment (Current Live Version)
+The application is currently deployed on Vercel at: [https://voice-transcriber-svm.vercel.app/](https://voice-transcriber-svm.vercel.app/)
+
+To deploy your own version:
 1. Push your code to a Git repository
 2. Connect your repository to Vercel
 3. Deploy with default settings
@@ -149,6 +164,7 @@ No additional environment variables required. The application uses browser APIs 
 - **Microphone Permissions**: Proper permission handling
 - **Data Privacy**: No speech data sent to external servers
 - **Local Processing**: All AI simulations run client-side
+- **HTTPS Security**: Deployed with SSL/TLS encryption
 
 ## Contributing
 
@@ -158,10 +174,16 @@ No additional environment variables required. The application uses browser APIs 
 4. Push to branch: `git push origin feature/new-feature`
 5. Submit a Pull Request
 
+## Links
+
+- **Live Demo**: [https://voice-transcriber-svm.vercel.app/](https://voice-transcriber-svm.vercel.app/)
+- **GitHub Repository**: [https://github.com/thetruesammyjay/voice-transcriber-svm](https://github.com/thetruesammyjay/voice-transcriber-svm)
+- **Developer**: Samuel Justin Ifiezibe
+
 ## Credits
 
 **Developer**: Samuel Justin Ifiezibe  
- **Technology**: Speech-to-Text with SVM & Attention Mechanism  
+**Technology**: Speech-to-Text with SVM & Attention Mechanism  
 **Year**: 2025
 
 ## License
@@ -171,6 +193,7 @@ MIT License - see LICENSE file for details.
 ## Support
 
 For technical support or questions:
+- Try the live demo at [https://voice-transcriber-svm.vercel.app/](https://voice-transcriber-svm.vercel.app/)
 - Review the documentation above
 - Check browser console for error messages
 - Ensure microphone permissions are granted
@@ -179,4 +202,4 @@ For technical support or questions:
 ---
 
 *Powered by SVM & Attention Mechanism*  
-*© 2025 sammyjayisthename,Inc*
+*© 2025 sammyjayisthename, Inc*
